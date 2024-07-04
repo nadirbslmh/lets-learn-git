@@ -1,3 +1,4 @@
 - learn programming
+- learn data science
 - sleep
 - repeat

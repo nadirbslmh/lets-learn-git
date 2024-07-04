@@ -3,3 +3,4 @@ my favorite books:
 - algorithm
 - software engineering
 - data engineering
+- digital marketing
