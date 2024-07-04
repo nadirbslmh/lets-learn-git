@@ -1,0 +1,5 @@
+my favorite books:
+
+- algorithm
+- software engineering
+- data engineering
