@@ -1,4 +1,5 @@
 - learn programming
 - learn data science
+- eat
 - sleep
 - repeat
