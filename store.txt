@@ -1,0 +1,5 @@
+store features:
+- payment
+- cart
+- transaction
+- products page
